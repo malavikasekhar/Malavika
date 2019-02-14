@@ -1,4 +1,4 @@
-a=int(input("enter the value"))
+a=int(input())
 if(a>0):
     print("positive no")
 elif(a==0):
