@@ -1,7 +1,7 @@
-a=int(input("enter the value"))
+a=int(input())
 if(a%2==0):
-    print("even no")
+    print("even")
 elif(a%2!=0):
      print("odd")
 else:
-     print("invalid input")
+     print("invalid")
