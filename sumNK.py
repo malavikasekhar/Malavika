@@ -1,4 +1,4 @@
-N=[1,2,3,4,5]
+N=int(input())
 k=int(input())
 sum=0
 for N in range(0:4):
