@@ -1,4 +1,4 @@
 N=int(input())
-K=int(input())
-out=N**K
+k=int(input())
+out=N**k
 print(out)
