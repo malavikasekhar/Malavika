@@ -1,2 +1,2 @@
-char1=input()
-print(char1+'.')
+char4=input()
+print(char4+'.')
